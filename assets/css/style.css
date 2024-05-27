@@ -1,0 +1,148 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, cursive;
+    font-size: 13pt;
+    padding: 10px;
+    background-image: url(/assets/img/bgimg.jpg);
+    background-size: cover;
+}
+
+.button-18 {
+  align-items: center;
+  background-color: grey;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+  touch-action: manipulation;
+  transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  position: relative;
+  left: 650px;
+  top: 40px;
+}
+
+.button-18:hover,
+.button-18:focus { 
+  background-color: grey;
+  color: #ffffff;
+}
+
+.button-18:active {
+  background: #01050a;
+  color: rgb(255, 255, 255, .7);
+}
+
+.button-18:disabled { 
+  cursor: not-allowed;
+  background: rgba(0, 0, 0, .08);
+  color: rgba(0, 0, 0, .3);
+}
+
+.button-19 {
+    margin: auto;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0);
+    border: 3px grey;
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 20px;
+    max-width: 480px;
+    min-height: 40px;
+    min-width: 0px;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    touch-action: manipulation;
+    transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+    position: relative;
+    left: 1000px;
+  }
+  
+  .button-19:hover,
+  .button-19:focus { 
+    background-color: grey;
+    color: #ffffff;
+  }
+  
+  .button-19:active {
+    background: #01050a;
+    color: rgb(255, 255, 255, .7);
+  }
+  
+  .button-19:disabled { 
+    cursor: not-allowed;
+    background: rgba(0, 0, 0, .08);
+    color: rgba(0, 0, 0, .3);
+  }
+  
+
+h2{
+    font-size: 30pt;
+  color: white;
+  text-align: center;
+  padding: 18px 0 18px 0;
+  margin: 10 10 10px 10;
+  justify-content: center;
+}
+
+h3{
+    font-size: 15pt;
+    color: whitesmoke;
+    width: 500px;
+  padding: 0.5px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.link {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 12px;
+    color: #cfcfcf;
+  }
+  
+  .link:link,
+  .link a:visited {
+    color: #cfcfcf;
+  }
+  
+  .link a:hover,
+  .link a:active {
+    color: green;
+  }
+
