@@ -7,7 +7,7 @@ body{
     font-family: Arial, cursive;
     font-size: 13pt;
     padding: 10px;
-    background-image: url(/assets/img/bgimg.jpg);
+    background-image: url(./assets/img/bgimg.jpg);
     background-size: cover;
 }
 
